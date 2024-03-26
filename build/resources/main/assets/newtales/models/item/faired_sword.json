@@ -1,0 +1,7 @@
+{
+  "parent": "newtales:custom/sword_espada",
+  "textures": {
+    "0": "newtales:block/fairy_sword",
+    "particle": "newtales:item/fairy_sword"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "_fv": 57,
+  "_type": "tab",
+  "definition": {
+    "name": "Newtales Misc",
+    "icon": {
+      "value": "CUSTOM:RunicTable"
+    },
+    "showSearch": true
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "newtales:custom/runic_table",
+  "textures": {
+    "all": "newtales:block/runie_table",
+    "particle": "newtales:block/runie_table",
+    "1": "newtales:block/runie_table"
+  },
+  "render_type": "solid"
+}

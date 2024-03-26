@@ -1,0 +1,46 @@
+{
+  "mod_elements": [
+    {
+      "name": "FairedSword",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "faired_sword",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/newtales/models/item/faired_sword.json",
+          "src/main/java/net/adeptusstudio/newtales/item/FairedSwordItem.java"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.newtales.faired_sword": "Faired Sword"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "newtales",
+    "modName": "newtales",
+    "version": "1.0.0",
+    "author": "StemDev0110, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "modElementsPackage": "net.adeptusstudio.newtales",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300452316
+}
